@@ -1,1 +1,1 @@
-WIP
+To open in eclipse, set your workspace to the "eclipse" folder inside of the cloned repository.
