@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "momod",
+  "name": "MoMod",
+  "description": "A mod that does stuff.",
+  "version": "0.1a",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Arkinion"],
+  "credits": "Arkinion, for setting this up.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
