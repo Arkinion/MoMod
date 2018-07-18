@@ -1,3 +1,7 @@
 // Items
 item.ruby.name=Ruby
 item.obsidian_ingot.name=Obsidian Ingot
+
+// Blocks
+tile.ruby_block.name=Ruby Block
+tile.dirty_block.name=Dirty Block
