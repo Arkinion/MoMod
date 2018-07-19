@@ -22,5 +22,5 @@ public class ItemBase extends Item implements IHasModel
 	public void registerModels()
 	{
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
-	}	
+	}
 }
