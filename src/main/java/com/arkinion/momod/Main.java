@@ -1,5 +1,6 @@
 package com.arkinion.momod;
 
+import com.arkinion.momod.init.ModRecipes;
 import com.arkinion.momod.proxy.CommonProxy;
 import com.arkinion.momod.util.Reference;
 
@@ -29,7 +30,7 @@ public class Main
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler
