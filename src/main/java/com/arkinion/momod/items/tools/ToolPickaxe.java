@@ -6,7 +6,6 @@ import com.arkinion.momod.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemPickaxe;
-import net.minecraft.item.Item.ToolMaterial;
 
 public class ToolPickaxe extends ItemPickaxe implements IHasModel
 {

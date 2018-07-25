@@ -5,7 +5,6 @@ import com.arkinion.momod.init.ModItems;
 import com.arkinion.momod.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemHoe;
 
 public class ToolHoe extends ItemHoe implements IHasModel

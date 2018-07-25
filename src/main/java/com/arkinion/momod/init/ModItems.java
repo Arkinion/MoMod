@@ -1,5 +1,6 @@
 package com.arkinion.momod.init;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.arkinion.momod.items.ItemBase;
@@ -11,18 +12,14 @@ import com.arkinion.momod.items.tools.ToolSpade;
 import com.arkinion.momod.items.tools.ToolSword;
 import com.arkinion.momod.util.Reference;
 
-import io.netty.handler.codec.AsciiHeadersEncoder.NewlineType;
-
-import java.util.ArrayList;
-
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
+import net.minecraft.item.Item.ToolMaterial;
+import net.minecraft.item.ItemArmor.ArmorMaterial;
 import net.minecraft.item.ItemAxe;
 import net.minecraft.item.ItemHoe;
 import net.minecraft.item.ItemPickaxe;
-import net.minecraft.item.Item.ToolMaterial;
-import net.minecraft.item.ItemArmor.ArmorMaterial;
 import net.minecraft.item.ItemSpade;
 import net.minecraft.item.ItemSword;
 import net.minecraftforge.common.util.EnumHelper;

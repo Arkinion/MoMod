@@ -7,7 +7,6 @@ import com.arkinion.momod.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.ItemArmor;
-import net.minecraft.item.ItemArmor.ArmorMaterial;
 
 public class ArmorBase extends ItemArmor implements IHasModel
 {

@@ -3,7 +3,6 @@ package com.arkinion.momod.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.arkinion.momod.blocks.BlockBase;
 import com.arkinion.momod.blocks.DirtyBlock;
 import com.arkinion.momod.blocks.RubyBlock;
 
